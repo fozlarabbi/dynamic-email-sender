@@ -1,4 +1,4 @@
-# dynamic-sender
+# dynamic-email-sender
 
 == Features ==
 
